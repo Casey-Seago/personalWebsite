@@ -1,0 +1,26 @@
+
+a.projectLink {
+	text-decoration:none;
+}
+
+h1, a.projectLink {
+	color: #1E221B !important;
+}
+
+h1.containerTitle {
+    border-color: #829376 !important;
+}
+
+div.card {
+    background-color: #F4F6F3;
+    border-color: #829376; 
+}
+
+img.websiteImage {
+	padding: 0;
+    border-color: #829376 !important;
+}
+
+p.card-text {
+    color: #505B48 !important;
+}

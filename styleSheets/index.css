@@ -1,0 +1,111 @@
+
+img.cardImage {
+    object-fit: contain;
+}
+
+img.udemyLogo {
+    height: 75px;
+}
+
+img.utLogo {
+    height: 75px; 
+    width: 75px;
+}
+
+img.auLogo {
+    height: 75px;
+}
+
+ul.experience, ul.skillsets {
+    list-style-type: disc !important;
+    padding-left:1em !important;
+    margin-left:1em;
+    line-height: 1.25;
+}
+
+.cf-experience a {
+    text-decoration: none;
+}
+
+div.LanguageLogo {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+img.LanguageLogo {
+    height: 75px;
+    width: 75px;
+    padding: 15px;
+}
+
+.cardExp {
+    min-height: 100%;
+}
+
+h1, div.card, ul.skillsets {
+    color: #1E221B;
+}
+
+div.education {
+    background-color: #F4F6F3; 
+    border-color: #829376 !important;
+}
+
+div {
+    border-color: #829376 !important;
+}
+
+div.container {
+    border: none !important;
+}
+
+div.cardExp {
+    background: none;
+}
+
+h5.dates {
+    color: #505B48 !important;
+}
+
+p.univName {
+    color: #505B48 !important;
+}
+
+div.card-footer, div.card-header {
+    background: none !important;
+}
+
+div.card-footer {
+    border: none;
+}
+
+h1.containerTitle, div.LanguageLogo {
+    border-color: #829376 !important;
+}
+
+img.LanguageLogo {
+    border-color: #829376 !important;
+    padding: 5px;
+}
+
+button.portfolioLink{
+    background-color: #F4F6F3;
+    border-color: #829376 !important;
+
+}
+
+div.card-footer a {
+    color: #1E221B;
+}
+
+div.whitespace {
+    height: 500px;
+}
+
+
+
+
+
+
+
+

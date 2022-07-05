@@ -1,0 +1,131 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+html {
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* Begin my code */
+
+p#blurb {
+    font-size: .5em;
+    color: #505B48;
+}
+
+.nav-item {
+    font-size: 1.25em;
+}
+
+.nav-item a {
+    color:#ADB7A4;  
+}
+
+a:hover {
+    color: #505B48 !important;
+}
+
+li.nav-item a.active {
+    color: #32392D !important;
+}
+
+a#navBrand {
+    color: #1E221B !important;
+}
+
+button.navbar-toggler {
+    background-color: #F4F6F3 !important;
+    border-color: #829376 !important;
+}
+
+.navbar-toggler, .navbar-toggler:focus {
+    outline: none !important;
+}
+
+span.navbar-toggler-icon {
+    background-image: url(
+"data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(130, 147, 118, 0.8)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+header, nav.navbar {
+    background: none !important;
+}
+
+
+img.linkedIn {
+    max-height: 30px;
+}
+
+img.github {
+    max-height: 30px;
+    margin-left: 15px;
+}
+
+img.email {
+    max-height: 30px;
+    margin-left: 15px;
+}
+
+a.footerContact {
+    text-decoration: none;
+    color: #1E221B;
+}
+
+footer.links {
+    margin-top: 400px;
+    margin-bottom: 100px;
+}
+
+.upperWhitespace {
+    height: 50px;
+}
+
+.bodyWhitespace {
+    height: 25px;
+}

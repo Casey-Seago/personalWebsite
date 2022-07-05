@@ -1,0 +1,9 @@
+
+div.container {
+    max-width: 750px;
+    color: #1E221B;
+}
+
+h1.containerTitle {
+    border-color: #829376 !important;
+}
