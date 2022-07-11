@@ -13,7 +13,8 @@ h1.containerTitle {
 
 div.card {
     background-color: #F4F6F3;
-    border-color: #829376; 
+    border-color: #829376;
+    height: 100%; 
 }
 
 img.websiteImage {
