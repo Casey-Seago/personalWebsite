@@ -67,6 +67,10 @@ h5.dates {
     color: #505B48 !important;
 }
 
+div.education {
+    height: 100%;
+}
+
 p.univName {
     color: #505B48 !important;
 }
