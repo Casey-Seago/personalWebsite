@@ -102,8 +102,9 @@ div.whitespace {
     height: 500px;
 }
 
-div.card {
-    height: 100% !important;
+div.education {
+    display: grid;
+    height: auto;
 }
 
 
