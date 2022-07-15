@@ -30,6 +30,9 @@ div.aboutBlurb {
         width: 500px;
         font-size: 1.1em;
     }
+    .aboutPhoto {
+        margin-left: 20%;
+    }
 }
 
 div.aboutHead {
