@@ -32,9 +32,9 @@ div.about {
     }
 }
 
-div.aboutHead {
+div#aboutHead {
     margin-bottom: 5%;
     margin-top: 6%;
     padding-top: 6%;
-    border-top: solid 2px #829376;
+    border-color: #829376 !important;
 }
